@@ -1,0 +1,235 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6977199181552714464
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 706878942149249872, guid: 1c838d95aa9c34688b46d7db02fa1c2b, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 13400000, guid: 6eb65aff6baf44c8fa7b48f19f31c23b, type: 2}
+    - target: {fileID: 706878942149249873, guid: 1c838d95aa9c34688b46d7db02fa1c2b, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 706878942149249875, guid: 1c838d95aa9c34688b46d7db02fa1c2b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7.111342
+      objectReference: {fileID: 0}
+    - target: {fileID: 706878942149249875, guid: 1c838d95aa9c34688b46d7db02fa1c2b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.06
+      objectReference: {fileID: 0}
+    - target: {fileID: 706878942149249875, guid: 1c838d95aa9c34688b46d7db02fa1c2b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.425397
+      objectReference: {fileID: 0}
+    - target: {fileID: 706878942149249875, guid: 1c838d95aa9c34688b46d7db02fa1c2b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 706878942149249875, guid: 1c838d95aa9c34688b46d7db02fa1c2b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 706878942149249875, guid: 1c838d95aa9c34688b46d7db02fa1c2b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 706878942149249875, guid: 1c838d95aa9c34688b46d7db02fa1c2b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 706878942149249875, guid: 1c838d95aa9c34688b46d7db02fa1c2b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 706878942149249875, guid: 1c838d95aa9c34688b46d7db02fa1c2b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 706878942149249875, guid: 1c838d95aa9c34688b46d7db02fa1c2b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 706878942149249877, guid: 1c838d95aa9c34688b46d7db02fa1c2b, type: 3}
+      propertyPath: walkSpeed
+      value: 2.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 706878942149249877, guid: 1c838d95aa9c34688b46d7db02fa1c2b, type: 3}
+      propertyPath: enableJump
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 706878942149249887, guid: 1c838d95aa9c34688b46d7db02fa1c2b, type: 3}
+      propertyPath: m_Name
+      value: PlayerPrefab
+      objectReference: {fileID: 0}
+    - target: {fileID: 706878942940996043, guid: 1c838d95aa9c34688b46d7db02fa1c2b, type: 3}
+      propertyPath: orthographic
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 706878942940996043, guid: 1c838d95aa9c34688b46d7db02fa1c2b, type: 3}
+      propertyPath: m_FOVAxisMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 706878942940996043, guid: 1c838d95aa9c34688b46d7db02fa1c2b, type: 3}
+      propertyPath: near clip plane
+      value: 0.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 706878942940996044, guid: 1c838d95aa9c34688b46d7db02fa1c2b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.51
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 706878942149249887, guid: 1c838d95aa9c34688b46d7db02fa1c2b, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8954718245653170122}
+    - targetCorrespondingSourceObject: {fileID: 706878942149249887, guid: 1c838d95aa9c34688b46d7db02fa1c2b, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6859192423510628773}
+    - targetCorrespondingSourceObject: {fileID: 706878942149249887, guid: 1c838d95aa9c34688b46d7db02fa1c2b, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4113206657444964566}
+  m_SourcePrefab: {fileID: 100100000, guid: 1c838d95aa9c34688b46d7db02fa1c2b, type: 3}
+--- !u!20 &7574116788916134699 stripped
+Camera:
+  m_CorrespondingSourceObject: {fileID: 706878942940996043, guid: 1c838d95aa9c34688b46d7db02fa1c2b, type: 3}
+  m_PrefabInstance: {fileID: 6977199181552714464}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &7574116789703543231 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 706878942149249887, guid: 1c838d95aa9c34688b46d7db02fa1c2b, type: 3}
+  m_PrefabInstance: {fileID: 6977199181552714464}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &8954718245653170122
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7574116789703543231}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 783e5b63e6802413d8891a6c1f845a05, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::FootstepAudio
+  footstepSource: {fileID: 6859192423510628773}
+  stepInterval: 0.3
+--- !u!82 &6859192423510628773
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7574116789703543231}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 8300000, guid: d8acbb143026549f6b1f472338c6fa66, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 0.314
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 77
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!114 &4113206657444964566
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7574116789703543231}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7046ac3ad64844f5a917e63cdc160090, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerInteract
+  cam: {fileID: 7574116788916134699}
+  interactDistance: 5

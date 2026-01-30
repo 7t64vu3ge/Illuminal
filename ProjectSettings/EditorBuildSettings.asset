@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Level/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Level/Scenes/Hall copy.unity
+    guid: 4dae400500ba2485aa19e638bec85d2e
+  - enabled: 0
+    path: Assets/Level/Scenes/NormalWorld.unity
+    guid: 88ee4a05bdf57429b870afb02b4d4e52
+  - enabled: 0
+    path: Assets/Level/Scenes/New.unity
+    guid: 7ca4cac29a0a348af90f4bb2d010846b
+  - enabled: 0
+    path: Assets/Level/Scenes/Hall.unity
+    guid: 4a06a87c989d542b4b5bd3f7a1aae733
+  - enabled: 1
+    path: Assets/Level/Scenes/MainRooms/Pilot.unity
+    guid: d1ae0c9f75eb1421e9c2b5f541f4a527
+  - enabled: 1
+    path: Assets/Level/Scenes/MainRooms/Room2.unity
+    guid: d1717d149c239453097539c3498bbf6c
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
