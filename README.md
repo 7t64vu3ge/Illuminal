@@ -12,10 +12,15 @@ after solving all the puzzles the player wakes up from the dream.
 
 ### Controls
 move - WSAD
+
 jump - space 
+
 grab item - left mouse hold
+
 resize - just grab item and move far from wall
+
 interact - E
+
 Sofa - F
 
 ### hints
